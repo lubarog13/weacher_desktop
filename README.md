@@ -12,7 +12,7 @@ __Используемый API__:
 - асинхронные запросы
 - графический интерфейс
 
-![Screenshot](screenshot.png)
+![Screenshot](screen.png)
 
 ## Установка
 
