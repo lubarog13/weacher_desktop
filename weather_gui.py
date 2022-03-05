@@ -1,11 +1,8 @@
 from tkinter import *
 from tkinter import font
-
-from mysqlx import Session
 from database_manager import DataBaseConnector
 import aiohttp
 import asyncio
-import requests
 import time
 import matplotlib.pyplot as plt
 
